@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Rachel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/JenniferAniston08TIFF.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Monica",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Courteney_Cox_1995.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Phoebe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lisa_Kudrow_3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Joey",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Matt_Le_Blanc.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chandler",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Matthew_Perry_as_Chandler_Bing.png"
+    },
+    {
+      "id": 6,
+      "name": "Ross",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/David_Schwimmer_as_Ross_Geller.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Janice",
+      "image": "https://metro.co.uk/wp-content/uploads/2015/09/ad_182344509.jpg?quality=90&strip=all"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Burke",
+      "image": "https://ar.justinfeed.com/img/images_12/which-friends-character-best-describes-you-based-on-your-zodiac_8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Carol",
+      "image": "http://img2.bdbphotos.com/images/orig/g/z/gznt37gx9fofgfn9.jpg?djet1p5k"
+    },
+    {
+      "id": 10,
+      "name": "Gunther",
+      "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/37/ustv-james-michael-tyler.jpg?crop=1.00xw:0.667xh;0,0.0625xh&resize=480:*"
+    },
+    {
+      "id": 11,
+      "name": "Frank Buffay Jr.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBts2jd6wpVBeFsJNOtcSFEFirVYspJDemPc8jd2VZWlBOgqdwQg&s"
+    },
+    {
+      "id": 12,
+      "name": "Emily",
+      "image": "https://vignette.wikia.nocookie.net/friends/images/8/8f/EmilyWaltham.png/revision/latest?cb=20180214125436"
+    }
+  ]

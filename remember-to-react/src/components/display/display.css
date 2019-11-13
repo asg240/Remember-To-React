@@ -1,0 +1,10 @@
+.jumbotron{
+    text-align:center;
+    background-color:rgb(76, 76, 243);
+    margin-top:0px;
+    padding-top:0px;
+    margin-bottom:0px;
+    padding-bottom:0px;
+    position: relative; top: -22px;
+    font: times;
+}
