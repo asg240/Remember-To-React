@@ -9,6 +9,8 @@ Friends edition!
 
 Play the example to find out:[https://remember-to-react-nine-rouge.now.sh/]
 
+![img](src/components/pic/snip.PNG)
+
 ## Local
 To try it out on your local:
 * Clone the repository from the clone tab above
