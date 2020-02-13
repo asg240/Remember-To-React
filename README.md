@@ -1,18 +1,17 @@
 # Remember-To-React
-Friends edition!
+Friends themed memory game built in [React](https://reactjs.org/ "React")!
 
-## Breakdown
+## Check it out
 * `Remember-To-React` is a memory game built in React.js. 
-* To win the game, the player has to click on each of the cast members cards without clicking the same one twice.
-* To make another level of difficulty, every click shuffles the cards in a new order to choose again. 
+* To win the game, the player has to click on each of the cast member's cards without clicking the same one twice.
+* To create another level of difficulty, every click shuffles the cards in a new order to choose again. 
 * Will you remember which one you chose last?
 
 Play the example to find out:[https://remember-to-react-nine-rouge.now.sh/]
 
 ![img](src/components/pic/snip.PNG)
 
-## Local
-To try it out on your local:
+## Try it out:
 * Clone the repository from the clone tab above
 * Open a terminal and change directory to Desktop
 * Clone to Desktop
