@@ -7,7 +7,7 @@ Friends themed memory game built in [React](https://reactjs.org/ "React")!
 * To create another level of difficulty, every click shuffles the cards in a new order to choose again. 
 * Will you remember which one you chose last?
 
-Play the example to find out:[https://remember-to-react-nine-rouge.now.sh/]
+Play the example to find out:[Remembe-To-React](https://remember-to-react-nine-rouge.now.sh/ "Click to Play!")
 
 ![img](src/components/pic/snip.PNG)
 
