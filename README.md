@@ -12,7 +12,7 @@ Play the example to find out:[https://remember-to-react-nine-rouge.now.sh/]
 ![img](src/components/pic/snip.PNG)
 
 ## Try it out:
-* Clone the repository from the clone tab above
+* [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository "Help me Clone a Repository") the repository from the clone tab above
 * Open a terminal and change directory to Desktop
 * Clone to Desktop
 * Change directory to the new folder
