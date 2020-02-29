@@ -1,6 +1,6 @@
 # Remember-To-React
 Friends themed memory game built in [React](https://reactjs.org/ "React")!
-View the example [Here](https://youtu.be/z6jOj50_r50 "Youtube Link")
+View the example video [Here](https://youtu.be/z6jOj50_r50 "Youtube Link")
 
 ## Check it out
 * `Remember-To-React` is a memory game built in React.js. 
