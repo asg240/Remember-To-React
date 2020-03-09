@@ -1,8 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Franklin Gothic Medium', sans-serif;
-  background-color:rgb(101, 150, 240);
+ 
+  background-image: url('components/pic/apartments.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
   margin-top:0px;
   padding-top:0px;
 }
@@ -20,3 +22,4 @@ cardWrap{
 .col-md-3{
   float: right;
 }
+

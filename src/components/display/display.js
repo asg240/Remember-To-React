@@ -2,6 +2,7 @@ import React from 'react';
 import './display.css';
 
 const Jumbotron = (props) => (
+  
 <div className="jumbotron">
   <p></p>
   <h1>Matching Friends</h1>
