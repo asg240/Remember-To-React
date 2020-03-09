@@ -1,14 +1,13 @@
 # Remember-To-React
-Friends themed memory game built in [React](https://reactjs.org/ "React")!
-View the example [Here](https://youtu.be/z6jOj50_r50 "Youtube Link")
+Friends themed memory game built in [React](https://reactjs.org/ "React")!<br>
+View the example video [Here](https://youtu.be/z6jOj50_r50 "Youtube Link")<br>
+Play the example: [Remember-To-React](https://remember-to-react-nine-rouge.now.sh/ "Click to Play!")
 
 ## Check it out
 * `Remember-To-React` is a memory game built in React.js. 
 * To win the game, the player has to click on each of the cast member's cards without clicking the same one twice.
 * To create another level of difficulty, every click shuffles the cards in a new order to choose again. 
 * Will you remember which one you chose last?
-
-Play the example to find out: [Remember-To-React](https://remember-to-react-nine-rouge.now.sh/ "Click to Play!")
 
 ![img](src/components/pic/snip.PNG)
 
@@ -19,3 +18,10 @@ Play the example to find out: [Remember-To-React](https://remember-to-react-nine
 * Change directory to the new folder
 * In terminal, type `yarn i` or `npm i` depending on what you are using
 * In terminal, type `yarn start` or `npm start` to run on localhost
+
+## Tech Used:
+* React
+* Javascript
+* HTML5
+* Node.js
+* Ziet.now
